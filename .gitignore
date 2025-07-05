@@ -1,0 +1,10 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+.vscode/
+.github/
+TREE.md
+.idea/
+.DS_Store
